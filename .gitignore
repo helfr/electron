@@ -1,3 +1,6 @@
 .htaccess
 /config.php
 admin/config.php
+config_to_dv/
+config_to_tt/
+
